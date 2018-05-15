@@ -28,7 +28,7 @@ VALUES ("Almond Breeze Almond Milk, Unsweetened, 32 OZ", "Dairy", 1.99, 58, 123.
 ("Raw Wraps Spinach Soft Taco", "International", 7.99, 621, 2508.86),
 ("Quaker Instant Oatmeal, Variety Value Pack, Breakfast Cereal, 18 Packets", "Breakfast", 4.88, 461, 2542.48),
 ("Legal Sea Foods Raw in the Shell Lobster Tails, 2 Count", "Seafood", 38.53, 47, 81067.12),
-("Navel Oranges from Organic Mountain", "Produce", 19.98, 63, 408),
+("Navel Oranges from Organic Mountain", "Produce", 19.98, 63, 408.00),
 ("Q-tips Cotton Swabs, 375 ct", "Health & Beauty", 268, 264, 42757.20),
 ("Neutrogena Oil-Free Liquid Eye Makeup Remover, 3.8 Fl. Oz.", "Grocery", 4.97, 62, 1008.91),
 ("Purina Fancy Feast Classic Feast Wet Cat Food - (24) 3 oz. Cans", "Pets", 14.16, 21, 11554.56);

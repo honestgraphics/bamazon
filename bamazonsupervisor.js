@@ -46,7 +46,7 @@ function afterConnection() {
           if (item.department_id === 6) {overHeadTab = "\t"}
           //productsales tab
           var prodSalesTab = "\t\t";
-          if (item.product_sales.length < 8) {
+          if (item.product_sales && item.product_sales.length < 8) {
             prodSalesTab += "\t";
           }
           if (item.department_id === 6) {prodSalesTab = "\t"}
